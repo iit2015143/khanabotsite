@@ -1,0 +1,35 @@
+/*------------------------------------ Montserrat Family -------------------------------------*/
+
+@font-face {
+  font-family: "montserrat-regular";
+  src: url("./fonts/Montserrat/Montserrat-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*------------------------------- Open-Sans Family ----------------------------------------*/
+
+@font-face {
+  font-family: "opensans-italic";
+  src: url("./fonts/Open_Sans/OpenSans-Italic.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*-------------------------------------- Oswald Family ---------------------------------------*/
+
+@font-face {
+  font-family: "oswald-regular";
+  src: url("./fonts/Oswald/Oswald-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*----------------- Nexa Family ------------------------*/
+
+@font-face{
+  font-family: "nexa-bold";
+  src: url("./fonts/Nexa/Nexa-Bold.otf") format("opentype");
+  font-style: normal;
+  font-weight: normal;
+}
